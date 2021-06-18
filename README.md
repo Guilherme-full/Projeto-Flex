@@ -13,7 +13,7 @@ gh repo clone Guilherme-full/Projeto-Flex
 
 ## Visualizar Projeto
 
-https://guilherme-full.github.io/Projeto-Flex/index (2).html
+https://guilherme-full.github.io/Projeto-Flex/projeto.html
 
 
 # Linguagens e Ferramenta
