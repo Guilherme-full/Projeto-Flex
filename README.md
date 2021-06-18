@@ -12,9 +12,9 @@ gh repo clone Guilherme-full/Projeto-Flex
 | Firefox <!-- GEN:firefox-version -->89.0<!-- GEN:stop --> | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 ## Visualizar Projeto
-```
-https://guilherme-full.github.io/Projeto-Flex/projeto.html
-```
+
+## *[Projeto Flex](https://guilherme-full.github.io/Projeto-Flex/projeto.html)
+
 
 
 # Linguagens e Ferramenta
