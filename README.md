@@ -1,8 +1,8 @@
 # Projeto Flex (Guilherme Xavier Souza)
 
-## Download do Projeto
+## Clonar Repositório
 ```
-gh repo clone Guilherme-full/Projeto-Flex
+git clone https://github.com/Guilherme-full/Projeto-Flex.git
 ```
 
 |          | Linux | macOS | Windows |
